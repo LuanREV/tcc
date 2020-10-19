@@ -1,0 +1,18 @@
+.navbar {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+    background-color: orangered;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.container-fluid{
+    background: url(assets/1.jpg);
+}
